@@ -1,2 +1,2 @@
 # goit-js-hw-10
-JavaScript homework#9
+JavaScript homework#10
